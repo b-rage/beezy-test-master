@@ -1,16 +1,6 @@
 import React, { Component } from "react";
 
 
-//
-// Initial State
-//
-
-//const initialState = { books:[], genres:[] }
-
-//
-// Context...
-//
-
 export const AppContext = React.createContext();
 
 
