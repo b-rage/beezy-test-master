@@ -1,0 +1,15 @@
+.my-container {
+    width: 60%;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.list-group {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.list-item {
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+}
