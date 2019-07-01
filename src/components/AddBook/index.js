@@ -42,7 +42,7 @@ class AddBook extends Component {
         { (context) => (
         <div className='card mt-5' ref={(ref) => { this.context = context; }}>
             <div className='card-body'>
-                <h3 className='card-title text-center mb-5'>Add new book</h3>
+                <h3 className='card-title text-center mb-5'>Add new books</h3>
                 <form onSubmit={this.addNewBook}>
                     <div className='form-group row'>
                         <label className='col-sm-4 col-lg-2 col-form-label'>Title</label>
